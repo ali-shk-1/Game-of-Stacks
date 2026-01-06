@@ -1,2 +1,2 @@
 # Game-of-Stacks
-Author Muhammad Ali
+Author Muhammad Ali Don
